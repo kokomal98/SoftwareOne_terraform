@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED          STATUS          PORTS                  NAMES
+05aaa00f5091   ac232364af84   "/docker-entrypoint.…"   20 minutes ago   Up 20 minutes   0.0.0.0:8000->80/tcp   tutorial
